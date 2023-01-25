@@ -1,0 +1,7 @@
+C:\Users\17274\Desktop\Valorant C# Spoofer\Spoofer menu test\bin\Release\Valorant Spoofer.exe.config
+C:\Users\17274\Desktop\Valorant C# Spoofer\Spoofer menu test\bin\Release\Valorant Spoofer.exe
+C:\Users\17274\Desktop\Valorant C# Spoofer\Spoofer menu test\bin\Release\Valorant Spoofer.pdb
+C:\Users\17274\Desktop\Valorant C# Spoofer\Spoofer menu test\obj\Release\Valorant Temp Spoofer.csproj.AssemblyReference.cache
+C:\Users\17274\Desktop\Valorant C# Spoofer\Spoofer menu test\obj\Release\Valorant Temp Spoofer.csproj.CoreCompileInputs.cache
+C:\Users\17274\Desktop\Valorant C# Spoofer\Spoofer menu test\obj\Release\Valorant Spoofer.exe
+C:\Users\17274\Desktop\Valorant C# Spoofer\Spoofer menu test\obj\Release\Valorant Spoofer.pdb
