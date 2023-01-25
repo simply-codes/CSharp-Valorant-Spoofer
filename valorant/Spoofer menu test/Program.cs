@@ -86,7 +86,7 @@ namespace Spoofer_menu_test
             Thread.Sleep(1000);
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.Blue;
-            Console.Write("AKM'S");
+            Console.Write("Valorant");
             Console.ForegroundColor = ConsoleColor.Red;
             Console.Write(" Temp");
             Console.ForegroundColor = ConsoleColor.Blue;
